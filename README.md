@@ -99,6 +99,8 @@ We use Slack to discuss. Feel free to fill in the [form](https://forms.gle/758d5
 
 Stay updated on OpenDevin's progress, share your ideas, and collaborate with fellow enthusiasts and experts. Together, we can make significant strides towards simplifying software engineering tasks and creating more efficient, powerful tools for developers everywhere.
 
+Join our community today and be part of the journey towards revolutionizing software development!
+
 🐚 **Code less, make more with OpenDevin.**
 
 [![Star History Chart](https://api.star-history.com/svg?repos=OpenDevin/OpenDevin&type=Date)](https://star-history.com/#OpenDevin/OpenDevin&Date)
